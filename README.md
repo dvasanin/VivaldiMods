@@ -1,4 +1,3 @@
-===========================
 Vivaldi Modding Guide (Windows) for the Inexperienced
 By: DVAsanin  
 Last Updated: 18-05-2025  
