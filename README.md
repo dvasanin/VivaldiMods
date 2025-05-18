@@ -1,7 +1,7 @@
 Vivaldi Modding Guide (Windows) for the Inexperienced By: DVAsanin
 Last Updated: 18-05-2025
 Hi, I'm Dan!
-
+---
 This is a quick guide on how to customize the Vivaldi browser using custom CSS and JS. These features aren't enabled by default, so some manual setup is required. Be cautious when editing Javascript - Vivaldi is still a browser, so injecting broken scripts can make it unresponsive.
 
 🔧 Step 1: Enable Mod Support
